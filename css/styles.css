@@ -1,0 +1,55 @@
+header {
+  background-color: rgb(76, 38, 118);
+}
+
+.header-h1 {
+  color: #ffff;
+}
+
+img {
+  border-radius: 0.25rem;
+}
+
+.new-entry-img-wrapper {
+  margin-bottom: 1rem;
+}
+
+.new-entry-img {
+  width: 100%;
+}
+
+.label-wrapper {
+  margin-bottom: 0.75rem;
+}
+
+.input-wrapper {
+  margin-bottom: 2.25rem;
+}
+
+.user-info {
+  width: 100%;
+  height: 2.25rem;
+  border-radius: 0.25rem;
+  border: 1px solid darkgray;
+}
+
+#notes {
+  height: 12rem;
+  margin-bottom: 0.75rem;
+}
+
+.submit-button-wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.entry-save-button {
+  background-color: rgb(76, 38, 118);
+  border: 1px solid rgb(76, 38, 118);
+  border-radius: 0.25rem;
+  color: #ffff;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  letter-spacing: 0.1rem;
+  font-size: 1.1rem;
+}
